@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "pt",
+    "name": "Terappia",
+    "short_name": "Terappia",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://www.terappia.com.br/",
+    "background_color": "#000000",
+    "theme_color": "transparent",
+    "description": "TERAPPIA é uma solução criada para conectar Psicólogos e pacientes de forma rápida e sem burocracias. Procure seu terapeuta com a gente!",
+    "orientation": "portrait",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://www.terappia.com.br",
+    "screenshots": []
+}
